@@ -7,5 +7,5 @@ My name is Marek and this is my GitHub profile.
 You can find a bit more about me on other corners of the internet.
 
 - Personal Blog: [turbomack.github.io](https://turbomack.github.io/)
-- Twitter Account: [@turbo_MaCk](twitter.com/turbo_MaCk)
+- Twitter Account: [@turbo_MaCk](https://twitter.com/turbo_MaCk)
 - GitLab Profile: [turboMaCk@gitlab.com](https://gitlab.com/turboMaCk)
