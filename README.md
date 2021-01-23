@@ -1,6 +1,6 @@
 # Hi There!
 
-My name is Marek and this is my GitHub profile.
+This is where I live.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=turboMaCk&show_icons=true&theme=light&include_all_commits=true)
 
